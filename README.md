@@ -4,6 +4,7 @@
   + `Windows internals`
   + `Network programming`
   + `Networking protcols`
+  + `Offensive tool development`
   + `Video game security`
 
 ![prev](https://github-readme-stats.vercel.app/api/top-langs/?username=codeneverdies&layout=compact&show_icons=true&theme=tokyonight)
